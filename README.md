@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Nowfel.</h2>
+<h2> Hey there! I'm Sarjis.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Nowfel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nowfel&show_icons=true)](https://github.com/Nowfel)
+[![Nowfel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarjis&show_icons=true)](https://github.com/Nowfel)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
