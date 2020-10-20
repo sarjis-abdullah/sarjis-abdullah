@@ -19,9 +19,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sarjis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sarjis-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:sarjis.m.a@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sarjis.m.a@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://github.com/sarjis-abdullah">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarjis-abdullah&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarjis-abdullah&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
 </p>
-
-⭐️ From [Sarjis](https://github.com/sarjis-abdullah)
